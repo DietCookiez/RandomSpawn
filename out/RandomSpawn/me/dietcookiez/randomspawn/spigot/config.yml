@@ -1,0 +1,45 @@
+#
+# If the player has joined the world before
+# they won't be teleported
+#
+# Note: This is different from server.
+#
+world: true
+
+#
+# Message when you get teleported. %s is the spawn number.
+#
+# Set to null to disable message
+#
+message: §7You've been teleported to §cspawn %s§7!
+
+#
+# These are the 4 spawns
+#
+spawn1:
+      world: world
+      x: 100
+      y: 100
+      z: 100
+spawn2:
+      world: world
+      x: 200
+      y: 200
+      z: 200
+spawn3:
+      world: world
+      x: 300
+      y: 300
+      z: 300
+spawn4:
+      world: world
+      x: 400
+      y: 400
+      z: 400
+
+#
+# This is a list of players that have joined
+#
+# You can use the /randomspawn command
+#
+players-joined:

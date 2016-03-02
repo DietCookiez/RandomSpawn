@@ -1,0 +1,8 @@
+name: RandomSpawn
+main: me.dietcookiez.randomspawn.Main
+author: DietCookiez
+description: Randomly spawns you in 1 of 4 locations. Made for CaptainAlienHD.
+version: 1.0
+commands:
+   randomspawn:
+      usage: /<command>

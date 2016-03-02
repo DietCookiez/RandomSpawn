@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RandomSpawn">
+    <output-path>$PROJECT_DIR$/../../Minecraft Server/plugins</output-path>
+    <root id="archive" name="RandomSpawn.jar">
+      <element id="module-output" name="RandomSpawn" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/me/dietcookiez/randomspawn/spigot/plugin.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/me/dietcookiez/randomspawn/spigot/config.yml" />
+    </root>
+  </artifact>
+</component>
